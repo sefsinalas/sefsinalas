@@ -3,8 +3,6 @@
 # My name is Eduardo Federico Santillan
 <sub>You call me Fede</sub>
 
-\
-\
 
 ### My profession right now is:
 
@@ -14,8 +12,6 @@ but I also am:
 **WEB DEVELOPER**
 **TEAM LEADER**
 
-\
-\
 
 **About me:**
 I'm from Argentina and usually my activities include one of two things: using my time in something meaninful or wasting my time playing Age of Mythology or on TikTok.
