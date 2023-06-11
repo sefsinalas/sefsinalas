@@ -1,16 +1,30 @@
 ### Hi there 👋
 
-<!--
-**sefsinalas/sefsinalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Eduardo Federico Santillan
+<sub>You call me Fede</sub>
 
-Here are some ideas to get you started:
+**My profession right now is:**
+### SDET
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+but I also am:
+### WEB DEVELOPER
+### TEAM LEADER
+
+**About me:**
+I'm from Argentina and usually my activities include one of two things: using my time in something meaninful or wasting my time playing Age of Mythology or on TikTok.
+
+And for meaninful I mean:
+- Reading
+- Exercising
+- Doing online courses
+- Piano lessons
+- Meditation
+- Cooking
+- Watching anime (yes, this is important, so many lessons learned here)
+
+**Tech stack:**
+
+[![My Skills](https://skillicons.dev/icons?i=laravel,mysql,selenium,java,linux,git,docker)](https://skillicons.dev)
+
+And a lot more of course!
+
