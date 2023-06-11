@@ -36,5 +36,5 @@ And a lot more of course!
 
 **Links:**
 
-My ![LinkedInasdf](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) profile
+[![LinkedInasdf](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efsantillan/?locale=en_US)
 
