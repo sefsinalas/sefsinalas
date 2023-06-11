@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-> My name is Eduardo Federico Santillan
+# My name is Eduardo Federico Santillan
 <sub>You call me Fede</sub>
 
-\
 \
 \
 
@@ -15,7 +14,6 @@ but I also am:
 **WEB DEVELOPER**
 **TEAM LEADER**
 
-\
 \
 \
 
