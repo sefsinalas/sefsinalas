@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # My name is Eduardo Federico Santillan
-<sub>You call me Fede</sub>
+<sub>You call me Fede</sub>\
 
 
 ### My profession right now is:
@@ -9,8 +9,8 @@
 **SDET**
 
 but I also am:
-**WEB DEVELOPER**
-**TEAM LEADER**
+**WEB DEVELOPER**\
+**TEAM LEADER**\
 
 
 **About me:**
