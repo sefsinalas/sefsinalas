@@ -16,6 +16,7 @@ but I also am:
 
 
 **About me:**
+
 I'm from Argentina and usually my activities include one of two things: using my time in something meaninful or wasting my time playing Age of Mythology or on TikTok.
 
 And for meaninful I mean:
