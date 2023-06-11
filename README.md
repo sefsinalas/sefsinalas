@@ -36,4 +36,5 @@ And a lot more of course!
 
 **Links:**
 
-My ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg) profile
+My ![LinkedIn]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/efsantillan/?locale=en_US)) profile
+
