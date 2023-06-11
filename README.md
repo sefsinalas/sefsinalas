@@ -34,3 +34,6 @@ And for meaninful I mean:
 
 And a lot more of course!
 
+**Links:**
+
+My ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg) profile
